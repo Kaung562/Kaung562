@@ -1,8 +1,9 @@
 <h1>Hi 👋, I'm Kaung Myat</h1><p>I am a motivated and experienced software engineer with a strong background in back-end development, experience in payment API integration, external API integration, and authentication and authorization. I excel at improving efficiency, delivering successful outcomes, and collaborating effectively with cross-functional teams.</p>
+
 <li><a target="_blank" href="https://kaungmyattthu.netlify.app">Portfolio</a></li>
+
 <p><img src="https://komarev.com/ghpvc/?username=kaungmyatthu&label=Profile%20views&color=0e75b6&style=flat" alt="kaungmyatthu" /></p>
 
-## 🛠 Tech Stack
 <p>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" alt="NestJS" />
@@ -15,6 +16,7 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis" />
 </p>
+
 ### **Microservices & Cloud**
 <p>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
