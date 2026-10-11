@@ -58,7 +58,7 @@ I'm a software engineer who builds reliable services and the integrations around
 ## GitHub stats
 
 <p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Kaung562&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0F172A" alt="GitHub stats" />
+  <!-- <img height="165" src="https://github-readme-stats.vercel.app/api?username=Kaung562&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0F172A" alt="GitHub stats" /> -->
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaung562&layout=compact&theme=tokyonight&hide_border=true&bg_color=0F172A" alt="Top languages" />
 </p>
 
