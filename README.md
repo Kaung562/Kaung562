@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/banner.svg" alt="Kaung Myat, software engineer" width="100%" />
+  <img src="./assets/banner.svg" alt="Kaung Myat, Software Engineer" width="100%" />
 </p>
 
 <p align="center">
@@ -7,7 +7,7 @@
   <a href="https://github.com/kaungmyatthu"><img src="https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
   <a href="https://www.linkedin.com/in/lil-kaungmyat"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:kaungmt61@gmail.com"><img src="https://img.shields.io/badge/Email-0EA5A4?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <img src="https://komarev.com/ghpvc/?username=kaungmyatthu&label=Profile%20views&color=4F46E5&style=for-the-badge" alt="Profile views" />
+  <!-- <img src="https://komarev.com/ghpvc/?username=kaungmyatthu&label=Profile%20views&color=4F46E5&style=for-the-badge" alt="Profile views" /> -->
 </p>
 
 ## Hi 👋, I'm Kaung Myat
@@ -58,8 +58,8 @@ I'm a software engineer who builds reliable services and the integrations around
 ## GitHub stats
 
 <p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=kaungmyatthu&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0F172A" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaungmyatthu&layout=compact&theme=tokyonight&hide_border=true&bg_color=0F172A" alt="Top languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Kaung562&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0F172A" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaung562&layout=compact&theme=tokyonight&hide_border=true&bg_color=0F172A" alt="Top languages" />
 </p>
 
 <!-- Optional: pin your best repos with short descriptions using the "Customize your pins" option on your profile. -->
