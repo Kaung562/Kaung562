@@ -31,7 +31,7 @@
   <!-- Text -->
   <g font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif">
     <text x="250" y="130" font-size="60" font-weight="700" fill="#F8FAFC">Kaung Myat</text>
-    <text x="252" y="176" font-size="26" fill="#C7D2FE">Back-end software engineer</text>
+    <text x="252" y="176" font-size="26" fill="#C7D2FE">Software Engineer</text>
     <text x="252" y="212" font-size="19" fill="#94A3B8">Payment integrations, external APIs, authentication and authorization</text>
   </g>
 
