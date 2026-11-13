@@ -10,7 +10,9 @@
   <!-- <img src="https://komarev.com/ghpvc/?username=kaungmyatthu&label=Profile%20views&color=4F46E5&style=for-the-badge" alt="Profile views" /> -->
 </p>
 
-## return ideas.stream().map(this::build);
+```java
+return ideas.stream().map(this::build);
+```
 
 A software engineer who builds reliable services and the integrations around them. I work on payment APIs, third-party API connections, and authentication and authorization, and I care about shipping things that are efficient, secure, and easy for a team to maintain.
 
